@@ -3,6 +3,7 @@
 - 🔭 Trabalho atualmente com Java backend
 - 🌱 Estudando recentemente Java avançado e programação web voltado pra java
 - 😄 Pronouns: Ele/Dele
+
 📚 Segue abaixo meus conhecimentos:
 - Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web;
 - Básico Desenvolvimento API REST, Design Patterns (MVC, EJB, DDD); 
