@@ -9,8 +9,11 @@
 - Básico Desenvolvimento API REST, Design Patterns (MVC, EJB, DDD); 
 - Conhecimento em React, HTML, CSS, Bootstrap, Persistência com Spring boot, JPA, JDBC, Servlet;
 - Metodologia SCRUM, Leitura técnica em inglês;
-- Conhecimento com IDE Eclipse e Spring Tool, SQL (Postgre, Mysql, xampp);
+- Conhecimento com IDE Eclipse, Spring Tool, IntelliJ;
+- SQL (Postgre, Mysql, xampp);
 - Git, Github, Atuar com ferramentas de gestão de projetos (Trello);
+- Conhecimentos em JUnit;
+- Conhecimentos em Lombok;
 
 <div>
   <a href="https://beacons.ai/GuhhDev">
