@@ -6,13 +6,13 @@
 
 📚 Segue abaixo meus conhecimentos:
 - Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web;
-- Básico Desenvolvimento API REST, Design Patterns (MVC, EJB, DDD); 
+- Básico Desenvolvimento API REST, Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento em React, HTML, CSS, Bootstrap, Persistência com Spring boot, JPA, JDBC, Servlet;
 - Metodologia SCRUM, Leitura técnica em inglês;
 - Conhecimento com IDE Eclipse, Spring Tool, IntelliJ;
 - SQL (Postgre, Mysql, xampp);
 - Git, Github, Atuar com ferramentas de gestão de projetos (Trello);
-- Conhecimentos em JUnit;
+- Conhecimentos em JUnit, @MockBean, @MockMvc;
 - Conhecimentos em Lombok;
 
 <div>
