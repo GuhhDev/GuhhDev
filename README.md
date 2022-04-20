@@ -4,7 +4,7 @@
 - 🌱 Estudando recentemente Java avançado e programação web voltado pra java
 - 😄 Pronouns: Ele/Dele
 
-📚 Segue abaixo meus conhecimentos:
+### 📚 Segue abaixo meus conhecimentos:
 - Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web;
 - Básico Desenvolvimento API REST, Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento em React, HTML, CSS, Bootstrap, Persistência com Spring boot, JPA, JDBC, Servlet;
