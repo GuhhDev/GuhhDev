@@ -5,13 +5,16 @@
 - 😄 Pronouns: Ele/Dele
 
 ### 📚 Segue abaixo meus conhecimentos:
-- Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web;
-- Básico Desenvolvimento API REST, Design Patterns (MVC, EJB, DDD, TDD); 
-- Conhecimento em React, HTML, CSS, Bootstrap, Persistência com Spring boot, JPA, JDBC, Servlet;
-- Metodologia SCRUM, Leitura técnica em inglês;
+- Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web, Java SE e Java EE;
+- Básico Desenvolvimento API REST;
+- Design Patterns (MVC, EJB, DDD, TDD); 
+- Conhecimento Front em React, HTML, CSS, Bootstrap; 
+- Persistência com JPA, JDBC, Servlet;
+- Metodologia SCRUM, Conhecimento de CI (integração contínua);
+- Leitura técnica em inglês;
 - Conhecimento com IDE Eclipse, Spring Tool, IntelliJ;
-- SQL (Postgre, Mysql, xampp);
-- Git, Github, Atuar com ferramentas de gestão de projetos (Trello);
+- SQL (Postgre, Mysql, xampp, H2 database);
+- Atuar com ferramentas de gestão de projetos (Trello, Github, Jira);
 - Conhecimentos em JUnit, @MockBean, @MockMvc;
 - Conhecimentos em Lombok;
 
