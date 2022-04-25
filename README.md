@@ -10,7 +10,7 @@
 - Básico Desenvolvimento API REST;
 - Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento Front em React, HTML, CSS, Bootstrap; 
-- Persistência com JPA, JDBC, Servlet;
+- Persistência com JPA, JDBC, Servlet, Hibernate;
 - Metodologia SCRUM, Conhecimento de CI (integração contínua);
 - Leitura técnica em inglês;
 - Conhecimento com IDE Eclipse, Spring Tool, IntelliJ;
