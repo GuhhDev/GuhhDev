@@ -7,6 +7,7 @@
 ### 📚 Segue abaixo meus conhecimentos:
 - Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web; 
 - Java SE, Java EE;
+- Conhecimento em JavaScript;
 - Básico Desenvolvimento API REST;
 - Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento Front em React, HTML, CSS, Bootstrap; 
