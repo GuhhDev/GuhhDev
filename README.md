@@ -5,7 +5,8 @@
 - 😄 Pronouns: Ele/Dele
 
 ### 📚 Segue abaixo meus conhecimentos:
-- Conhecimentos em Programação Orientada a Objetos, Fundamentos de programação Java Web; 
+- Conhecimentos em Programação Orientada a Objetos;
+- Fundamentos de programação Java Web; 
 - Java SE, Java EE;
 - Conhecimento em JavaScript;
 - Básico Desenvolvimento API REST;
