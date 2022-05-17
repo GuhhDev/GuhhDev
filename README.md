@@ -9,7 +9,7 @@
 - Fundamentos de programação Java Web; 
 - Java SE, Java EE;
 - Conhecimento em JavaScript;
-- Básico Desenvolvimento API REST;
+- Desenvolvimento API REST;
 - Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento Front em React, HTML, CSS, Bootstrap; 
 - Persistência com JPA, JDBC, Servlet, Hibernate;
