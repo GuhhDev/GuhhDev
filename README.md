@@ -1,7 +1,7 @@
 ### Olá! Eu sou Gustavo Batista, bem vindo ao meu GitHub!
 
 - 🔭 Trabalho atualmente com Java backend
-- 🌱 Estudando recentemente Java avançado e programação web voltado pra java
+- 🌱 Estudando recentemente aplicações web com Spring, microservices, mensageria, DDD 
 - 😄 Pronouns: Ele/Dele
 
 ### 📚 Segue abaixo meus conhecimentos:
@@ -10,6 +10,7 @@
 - Java SE, Java EE;
 - Conhecimento em JavaScript;
 - Desenvolvimento API REST;
+- Conhecimento em Mensageria (RebbitMQ, Kafka)
 - Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento básico em React, HTML, CSS, Bootstrap; 
 - Persistência com JPA, JDBC, Servlet, Hibernate;
@@ -17,6 +18,7 @@
 - Leitura técnica em inglês;
 - Conhecimento com IDE Eclipse, Spring Tool, IntelliJ;
 - SQL (Postgre, Mysql, xampp, H2 database);
+- Conhecimento em microserviços;
 - Atuar com ferramentas de gestão de projetos (Trello, Github, Jira);
 - Conhecimentos em JUnit, @MockBean, @MockMvc;
 - Conhecimentos em Lombok;
