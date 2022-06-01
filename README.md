@@ -10,7 +10,7 @@
 - Java SE, Java EE;
 - Conhecimento em JavaScript;
 - Desenvolvimento API REST;
-- Conhecimento em Mensageria (RebbitMQ, Kafka)
+- Conhecimento em Mensageria (RebbitMQ)
 - Design Patterns (MVC, EJB, DDD, TDD); 
 - Conhecimento básico em React, HTML, CSS, Bootstrap; 
 - Persistência com JPA, JDBC, Servlet, Hibernate;
@@ -46,3 +46,8 @@
   
   
 </div>
+
+<p align="left">
+<img width="480em" src="https://github-readme-stats.vercel.app/api?username=GuhhDev&show_icons=true&theme=chartreuse-dark" alt="GuhhDev's stats"/>
+<img width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuhhDev&layout=compact&theme=chartreuse-dark" alt="GuhhDev's most languages"/>
+</p>
